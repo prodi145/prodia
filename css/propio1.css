@@ -1,0 +1,74 @@
+#An{
+	color:#f50014;
+	font-family:"Algerian","Georgia","Arial","Vernada","Elephant";
+}
+#HH{
+	color: red;
+	font-family:"Algerian","Georgia","Arial","Vernada","Elephant";
+}
+.pa1{
+	color:#fff;
+	font-size:150% !important;
+	font-weight: bold !important;
+}
+#M1{
+	color: #daf03a !important;
+}
+
+#L1{
+	color:#00d9ff !important;
+	font-family:"Georgia","Arial","Vernada";
+	font-size:120% !important;
+}
+
+#po{
+    color: #00eff7; 
+}
+
+#es{
+    color: #0aff23;
+}
+
+#em{
+    color: #2200ff !important;
+}
+
+.is-visible{
+    color:#ff2d03 ;
+}
+
+#re{
+
+	color: red;
+	font-family:"Elephant","Arial Black","Bodoni MT Black";
+}
+
+#es{
+	color: #fff705;
+}
+
+#via{
+	color:#00f5dc;
+}
+
+#foto{
+	color:#f59b00;
+	font-size: 250% !important;
+	font-family: "Algerian";
+}
+
+#LA{
+    color: #533de3 !important;
+    font-family: "Arial Black","Bodoni MT Black";
+}
+
+#VL{
+    color:#ba041c;
+    font-family:"Algerian","Georgia","Arial","Vernada","Elephant";
+    font-weight: bold;
+}
+
+.style-options{
+	background-color: #a3a3a3 !important;
+}
+
